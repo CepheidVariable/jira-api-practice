@@ -1,0 +1,3 @@
+__pycache__/**
+venv/**
+JIRA_CREDS.py
